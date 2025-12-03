@@ -9,7 +9,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-attachment: scroll;
+    background-attachment: scroll !important;
     flex-direction: column;
 }
   .imh h3{
