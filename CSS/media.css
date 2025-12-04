@@ -12,6 +12,17 @@
     background-attachment: scroll !important;
     flex-direction: column;
 }
+
+.header h4{
+
+    color: white;
+    font-size: 60px;
+    font-weight: 200;
+    font-family: "Montserrat", sans-serif;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
   .imh h3{
 
     font-size: 20px;

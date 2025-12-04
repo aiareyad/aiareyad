@@ -402,6 +402,7 @@ body:hover .bottom-icon{
     font-family: "Montserrat", sans-serif;
     letter-spacing: 1px;
     text-align: center;
+    margin-top:40px
 }
 
 .header h4::after{
