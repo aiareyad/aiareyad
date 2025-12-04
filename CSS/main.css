@@ -438,41 +438,41 @@ body:hover .bottom-icon{
   32% { content: "A|"; }
 
   /* DESIGNER */
-  34% { content: "D|"; }
-  36% { content: "De|"; }
-  38% { content: "Des|"; }
-  40% { content: "Desi|"; }
-  42% { content: "Desig|"; }
-  44% { content: "Design|"; }
-  46% { content: "Designe|"; }
-  48% { content: "Designer|"; }
+  34% { content: "A D|"; }
+  36% { content: "A De|"; }
+  38% { content: "A Des|"; }
+  40% { content: "A Desi|"; }
+  42% { content: "A Desig|"; }
+  44% { content: "A Design|"; }
+  46% { content: "A Designe|"; }
+  48% { content: "A Designer|"; }
 
   /* DELETE DESIGNER */
-  50% { content: "Designe|"; }
-  52% { content: "Design|"; }
-  54% { content: "Desig|"; }
-  56% { content: "Desi|"; }
-  58% { content: "Des|"; }
-  60% { content: "De|"; }
+  50% { content: "A Designe|"; }
+  52% { content: "A Design|"; }
+  54% { content: "A Desig|"; }
+  56% { content: "A Desi|"; }
+  58% { content: "A Des|"; }
+  60% { content: "A De|"; }
 
   /* DEVELOPER */
-  62% { content: "Dev|"; }
-  64% { content: "Deve|"; }
-  66% { content: "Devel|"; }
-  68% { content: "Develo|"; }
-  70% { content: "Develop|"; }
-  72% { content: "Develope|"; }
-  74% { content: "Developer|"; }
+  62% { content: "A Dev|"; }
+  64% { content: "A Deve|"; }
+  66% { content: "A Devel|"; }
+  68% { content: "A Develo|"; }
+  70% { content: "A Develop|"; }
+  72% { content: "A Develope|"; }
+  74% { content: "A Developer|"; }
 
   /* DELETE DEVELOPER */
-  76% { content: "Develope|"; }
-  78% { content: "Develop|"; }
-  80% { content: "Develo|"; }
-  82% { content: "Devel|"; }
-  84% { content: "Deve|"; }
-  86% { content: "Dev|"; }
-  88% { content: "De|"; }
-  90% { content: "D|"; }
+  76% { content: "A Develope|"; }
+  78% { content: "A Develop|"; }
+  80% { content: "A Develo|"; }
+  82% { content: "A Devel|"; }
+  84% { content: "A Deve|"; }
+  86% { content: "A Dev|"; }
+  88% { content: "A De|"; }
+  90% { content: "A D|"; }
   100% { content: "|"; }
 }
 
