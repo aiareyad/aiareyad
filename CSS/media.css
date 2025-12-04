@@ -13,6 +13,21 @@
     flex-direction: column;
 }
 
+.header h1 {
+
+    font-size: 50px;
+    font-weight: 800;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    font-family: "Montserrat", sans-serif;
+    letter-spacing: 1px;
+    text-align: center;
+    margin-bottom: 0 !important;
+}
+
 .header h4{
 
     color: white;
@@ -21,6 +36,8 @@
     font-family: "Montserrat", sans-serif;
     letter-spacing: 1px;
     text-align: center;
+    
+
 }
 
   .imh h3{
