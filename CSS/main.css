@@ -86,7 +86,6 @@ body {
             padding: 10px 20px;
             background-color: rgba(255, 255, 255, 0.082);
             color: white;
-            border: 1px solid rgba(255, 255, 255, 0.2);
             border-radius: 8px;
             cursor: pointer;
             font-weight: 700;
@@ -100,15 +99,17 @@ body {
         }
 
         #cv:hover {
-            background-color: rgba(255, 255, 255, 0.2);
-                        font-weight: 400;
+        background-color: rgba(255, 255, 255, 0.2);
+        font-weight: 400;
+        border: 1px solid rgba(255, 255, 255, 0.2);
+
         }
         
                 #abt {
             padding: 10px 20px;
             background-color: rgba(255, 255, 255, 0.082);
             color: white;
-            border: 1px solid rgba(255, 255, 255, 0.2);
+            /* border: 1px solid rgba(255, 255, 255, 0.2); */
             border-radius: 8px;
             cursor: pointer;
             font-weight: 700;
@@ -124,8 +125,10 @@ body {
         }
 
         #abt:hover {
-            background-color: rgba(255, 255, 255, 0.2);
-                        font-weight: 400;
+        background-color: rgba(255, 255, 255, 0.2);
+        font-weight: 400;
+        border: 1px solid rgba(255, 255, 255, 0.2);
+
         }
 
 body:hover .top-icon{
