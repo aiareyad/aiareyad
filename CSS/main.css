@@ -52,6 +52,66 @@ body {
 
 }
 
+.imh img{
+
+   width:150px; 
+        transition: all ease 1s;
+        animation: pulse 10s;
+        animation-iteration-count: infinite;
+
+
+}
+
+@keyframes pulse {
+  
+  0%{
+
+    transform: rotate(360deg);
+
+  }
+
+  20%{
+
+        transform: rotate(0);
+  }
+
+40%{
+
+      transform: rotate(0);
+
+}
+
+60%{
+
+      transform: rotate(0);
+
+}
+
+80%{
+
+      transform: rotate(0);
+
+}
+
+  100%{
+
+    transform: rotate(0);
+    }
+
+}
+
+.imh img:hover{
+
+     width:300px; 
+     transition: all ease 1s;
+}
+
+.imh:hover h3{
+
+display: none;}
+
+
+
 :hover .toggler-icon{
 
   color: #1C1C1C;
@@ -109,6 +169,7 @@ body {
         border: 1px solid rgba(255, 255, 255, 0.2);
 
         }
+        
         
                 #abt {
             padding: 10px 20px;
@@ -560,6 +621,19 @@ body:hover .bottom-icon{
     margin-right: 5px;
 }
 
+.icons span:hover{
+
+      background-color: rgba(255, 255, 255, 0.2);
+      transition: 1s ease all;
+}
+
+.icons span:hover i{
+
+      color: #222121;
+            transition: 1s ease all;
+
+
+}
 .icons span i{
 
     color: #fff;
@@ -605,6 +679,7 @@ body:hover .bottom-icon{
     bottom: -30px;
     background-repeat: repeat;
     z-index: 1;
+    
 }
 
 .about-content {
